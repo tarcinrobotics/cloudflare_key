@@ -1,0 +1,1 @@
+wget -qO- https://raw.githubusercontent.com/bigbluebutton/bbb-install/v2.7.x-release/bbb-install.sh | bash -s -- -v focal-270 -s meet.tarcinrobotic.in -e devops@tarcinacademy.in -w -g 
